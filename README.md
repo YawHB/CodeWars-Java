@@ -1,6 +1,7 @@
 # Codewars Java Practice
 
-Hi there :) welcome to my coding challenge adventure!
+Hi there :) 
+Welcome to my coding challenge adventure!
 
 I surely enjoy a good challenge. Especially when it involves programming. they give my logical thinking a workout and help me become a better problem solver.
 I thought it would be awesome to document my progress publicly. That way, I (and everyone interested) can get a peek into how I'm thinking and my progression over time. 
