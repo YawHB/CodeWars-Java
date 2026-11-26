@@ -110,6 +110,11 @@ Create the correct “likes” message for a list of names, with different wordi
 **Codewars:** [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7)  
 Convert a non-negative number of seconds into a zero-padded `HH:MM:SS` time, up to `99:59:59`.
 
+### [Mean Square Error](kata_05/MeanSquareError.java)
+
+**Codewars:** [Mean Square Error](https://www.codewars.com/kata/51edd51599a189fe7f000015)  
+Given two arrays of equal length, calculate the mean of the squared differences between corresponding values.
+
 ## Kata 04
 
 ### [Sum Strings as Numbers](kata_04/SumStrings.java)

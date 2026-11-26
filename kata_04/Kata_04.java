@@ -7,7 +7,7 @@ public class Kata_04 {
 
     public static void kata04(){
         //validateRomanNumerals();
-        validateStripComments();
+        //validateStripComments();
     }
 
     private static void validateStripComments() {
