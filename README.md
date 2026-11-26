@@ -117,6 +117,11 @@ Convert a non-negative number of seconds into a zero-padded `HH:MM:SS` time, up 
 **Codewars:** [Sum Strings as Numbers](https://www.codewars.com/kata/5324945e2ece5e1f32000370)  
 Add two non-negative integers supplied as strings and return the sum as a string, without using big-number types.
 
+### [Strip Comments in a Text](kata_04/StripComments.java)
+
+**Codewars:** [Strip Comments in a Text](https://www.codewars.com/kata/51c8e37cee245da6b40000bd)  
+Remove each supplied comment marker and everything after it on that line
+
 ### [Roman Numerals Encoder](kata_04/RomanNumerals.java) — *In progress*
 
 **Codewars:** [Roman Numerals Encoder](https://www.codewars.com/kata/51b66044bce5799a7f000003)  
