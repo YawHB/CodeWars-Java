@@ -8,10 +8,8 @@ public class MeanSquareError {
         List<Double> numsSquared = new ArrayList<>();
         int length = arr1.length;
         for(int i = 0; i < length; i++) {
-            int max = Math.max(arr1[i], arr2[i]);
-            int min = Math.min(arr1[i], arr2[i]);
 
-            numsSquared.add(Math.pow((max - min), 2));
+            numsSquared.add(Math.pow(((arr1[i] - arr2[i])), 2));
         }
             double sum = numsSquared.stream().reduce(0.0, (num1, num2) -> num1 + num2);
             return sum/numsSquared.size();
