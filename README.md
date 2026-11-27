@@ -4,10 +4,10 @@ Hi there :)
 
 Welcome to my coding challenge adventure!
 
-I surely enjoy a good challenge. Especially when it involves programming. they give my logical thinking a workout and help me become a better problem solver.
-I thought it would be awesome to document my progress publicly. That way, I (and everyone interested) can get a peek into how I'm thinking and my progression over time. 
+I surely enjoy a good challenge. Especially when it involves programming. They give my logical thinking a workout and help me become a better problem solver.
+I thought it would be awesome to document my progress publicly. That way, I (and everyone interested) can get a peek into how I'm thinking and how i'm progressing over time. 
 
-This repository collects my Java solutions, grouped into the `kata_08` through `kata_04` folders. Each challenge title links to its solution in this project, and the Codewars link opens the original challenge page. The summaries below describe the tasks in my own words.
+This repository collects my Java solutions, grouped into the `kata_08` through `kata_04` folders. Each challenge title links to its solution in this project, and the Codewars link opens the original challenge page. The kata summaries below describe the challenges in a recaped format getting you up to speed quickly.
 
 ## Contents
 
